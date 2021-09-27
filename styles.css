@@ -122,6 +122,10 @@ hr{
     background-color: var(--gray);
 }
 
+.section p{
+    text-align: justify;
+}
+
 /** footer **/
 
 .footer{

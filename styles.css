@@ -61,6 +61,12 @@ hr{
     padding: 0rem 0.5rem;
 }
 
+.list-ordered{
+    border:1px solid var(--light-green);
+    border-radius: 2rem 0rem 2rem 0rem;
+    padding:1rem;
+}
+
 /** nav **/
 .navigation{
     background-color: var(--primary-color);
